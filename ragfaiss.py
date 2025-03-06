@@ -14,19 +14,19 @@ from typing import List, Any
 from langchain.schema import BaseRetriever, Document
 
 # MODEL = "llama3:instruct"
-MODEL = "gemma2:latest"
+MODEL = "llama3.1:8b"
 
 # Initialize the model and embeddings
 model = Ollama(model=MODEL)
 embeddings = OllamaEmbeddings(model=MODEL)
 
 # Load the document
-loader = PyPDFLoader("constitution.pdf")
+loader = PyPDFLoader("schedule.pdf")
 documents = loader.load()
 
 # Split the document into chunks
-chunk_size = 450
-chunk_overlap = 0
+chunk_size = 1000
+chunk_overlap = 200
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=chunk_size,
     chunk_overlap=chunk_overlap
@@ -144,7 +144,7 @@ if faiss_index is not None:
         )
 
         # Query the system
-        query = "Under what circumstances do the office of prime minister be vacant?"
+        query = "when is the class time on Monday?"
         result = qa_chain.invoke({"query": query})
         print("Answer:", result['result'])
         # print("\nSource Documents:")

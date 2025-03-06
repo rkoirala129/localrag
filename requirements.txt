@@ -12,3 +12,8 @@ pinecone-client
 scikit-learn
 ruff
 pypdf
+streamlit
+streamlit_chat
+sentence_transformers
+unstructured
+unstructured[local-inference]
