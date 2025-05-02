@@ -1,0 +1,73 @@
+Day,Time Start,Time End,Hours,Class Type,Course,Module Code,Module Title ,Lecturer,Group,Block,Location,Room
+Sun,1220,1350,1.5,Workshop,AI,*,English Profiency Class,Chudamani Rijal,Newly Admitted,Block A,Level 3,A304
+Mon,1220,1350,1.5,Workshop,AI,*,English Profiency Class,Chudamani Rijal,Newly Admitted,Block A,Level 3,A304
+Tue,1230,1400,1.5,Workshop,AI,*,,Chudamani Rijal,I2,Block A,Level 1,A106 
+Wed,1230,1400,1.5,Workshop,AI,*,,Chudamani Rijal,I4,Block A,Level 3,A303
+Thu,1230,1400,1.5,Workshop,AI,*,,Chudamani Rijal,I3,Block A,Level 3,A301 
+Fri,1230,1400,1.5,Workshop,AI,*,,Chudamani Rijal,I1,Block A,Level 3,A301 
+Mon,700,830,1.5,Lecture,AI,CMP4285,Innovation Project,Khushal Regmi,I1+I2,Block A,Level 4,Seminar Room  
+Mon,900,1030,1.5,Lecture,AI,CMP4285,Innovation Project,Khushal Regmi,I3+I4,Block A,Level 4,Seminar Room  
+Tue,800,930,1.5,Tutorial,AI,CMP4285,Innovation Project,Khushal Regmi,I2,Block A,Level 3,A301 
+Tue,1100,1230,1.5,Tutorial,AI,CMP4285,Innovation Project,Khushal Regmi,I1,Block A,Level 1,A101 
+Wed,800,930,1.5,Tutorial,AI,CMP4285,Innovation Project,Khushal Regmi,I4,Block A,Level 3,A303
+Wed,1000,1130,1.5,Tutorial,AI,CMP4285,Innovation Project,Khushal Regmi,I3,Block A,Level 3,A301 
+Thu,930,1130,2.0,Workshop,AI,CMP4285,Innovation Project,Khushal Regmi,I2,Block B,Level 1,B104
+Thu,1230,1430,2.0,Workshop,AI,CMP4285,Innovation Project,Khushal Regmi,I1,Block B,Level 1,B104
+Fri,830,1030,2.0,Workshop,AI,CMP4285,Innovation Project,Khushal Regmi,I3,Block A,Level 3,A303
+Fri,1200,1400,2.0,Workshop,AI,CMP4285,Innovation Project,Khushal Regmi,I4,Block A,Level 1,A101 
+Sun,900,1030,1.5,Lecture,AI,CMP4267,Computer Systems,Mala Deep Upadhaya,C1,Block A,Level 1,A106 
+Mon,800,930,1.5,Lecture,AI,*,Research and Study Skills,Mala Deep Upadhaya,C1,Block B,Level 1,B104
+Tue,830,1000,1.5,Tutorial,AI,CMP4267,Computer Systems,Mala Deep Upadhaya,C1,Block A,Level 1,A107
+Wed,800,930,1.5,Tutorial,AI,*,Research and Study Skills,Mala Deep Upadhaya,C1,Block A,Level 1,A106 
+Thu,930,1130,2.0,Workshop,AI,CMP4267,Computer Systems,Mala Deep Upadhaya,C1,Block A,Level 1,A106 
+Fri,730,930,2.0,Workshop,AI,*,Research and Study Skills,Mala Deep Upadhaya,C1,Block B,Level 1,B104
+Sun,700,830,1.5,Lecture,AI,CMP5329,Cyber Security,Manoj Gautam,AI1+AI2,Block A,Level 4,Seminar Room  
+Mon,700,830,1.5,Tutorial,AI,CMP5329,Cyber Security,Manoj Gautam,AI1,Block A,Level 4,A401
+Tue,700,830,1.5,Tutorial,AI,CMP5329,Cyber Security,Manoj Gautam,AI2,Block A,Level 1,A101 
+Wed,700,900,2.0,Workshop,AI,CMP5329,Cyber Security,Manoj Gautam,AI1,Block A,Level 4,A401
+Thu,700,900,2.0,Workshop,AI,CMP5329,Cyber Security,Manoj Gautam,AI2,Block A,Level 1,A101 
+Mon,1030,1200,1.5,Lecture,AI,DIG4166,Website Design & Development,Nitan Thapa,C1,Block B,Level 1,B104
+Wed,1030,1200,1.5,Tutorial,AI,DIG4166,Website Design & Development,Nitan Thapa,C1,Block A,Level 1,A106 
+Fri,1030,1230,2.0,Workshop,AI,DIG4166,Website Design & Development,Nitan Thapa,C1,Block B,Level 1,B104
+Sun,900,1030,1.5,Lecture,AI,CMP5367,Artificial Intelligence & Machine Learning,Prakash Gautam,A1,Block A,Level 1,A101 
+Sun,1100,1230,1.5,Lecture,AI,CMP4272,Data Structures & Algorithms,Prakash Gautam,I3+I4,Block A,Level 4,Seminar Room  
+Mon,1130,1300,1.5,Tutorial,AI,CMP4272,Data Structures & Algorithms,Prakash Gautam,I3,Block A,Level 1,A106 
+Wed,1000,1130,1.5,Tutorial,AI,CMP4272,Data Structures & Algorithms,Prakash Gautam,I4,Block A,Level 3,A303
+Thu,800,930,1.5,Tutorial,AI,CMP5367,Artificial Intelligence & Machine Learning,Prakash Gautam,A1,Block A,Level 3,A303
+Thu,1000,1200,2.0,Workshop,AI,CMP4272,Data Structures & Algorithms,Prakash Gautam,I3,Block A,Level 3,A301 
+Fri,900,1100,2.0,Workshop,AI,CMP4272,Data Structures & Algorithms,Prakash Gautam,I4,Block A,Level 4,A401
+Fri,1130,1330,2.0,Workshop,AI,CMP5367,Artificial Intelligence & Machine Learning,Prakash Gautam,A1,Block A,Level 1,A106 
+Sun,900,1030,1.5,Lecture,AI,CMP5366,Data Management and Machine Learning Operations,Rupak Koirala,AI1+AI2,Block B,Level 2, Lecture Theatre 1
+Mon,1100,1230,1.5,Tutorial,AI,CMP5366,Data Management and Machine Learning Operations,Rupak Koirala,AI2,Block A,Level 3,A301 
+Tue,930,1100,1.5,Tutorial,AI,CMP5366,Data Management and Machine Learning Operations,Rupak Koirala,AI1,Block A,Level 1,A106 
+Wed,930,1130,2.0,Workshop,AI,CMP5366,Data Management and Machine Learning Operations,Rupak Koirala,AI2,Block A,Level 4,A401
+Fri,930,1130,2.0,Workshop,AI,CMP5366,Data Management and Machine Learning Operations,Rupak Koirala,AI1,Block A,Level 1,A106 
+Mon,900,1030,1.5,Lecture,AI,CMP5354,Software Design,Satyam Paudel,AI1+AI2,Block B,Level 2, Lecture Theatre 1
+Tue,700,830,1.5,Tutorial,AI,CMP5354,Software Design,Satyam Paudel,AI1,Block A,Level 1,A106 
+Tue,900,1030,1.5,Tutorial,AI,CMP5354,Software Design,Satyam Paudel,AI2,Block A,Level 1,A101 
+Thu,730,930,2.0,Workshop,AI,CMP5354,Software Design,Satyam Paudel,AI1,Block A,Level 1,A106 
+Fri,800,1000,2.0,Workshop,AI,CMP5354,Software Design,Satyam Paudel,AI2,Block A,Level 1,A101 
+Sun,1100,1230,1.5,Lecture,AI,CMP4294,Introduction to Artificial Intelligence ,Sujan Shrestha,I1+I2,Block B,Level 2, Lecture Theatre 1
+Mon,900,1030,1.5,Tutorial,AI,CMP4294,Introduction to Artificial Intelligence ,Sujan Shrestha,I2,Block A,Level 1,A106 
+Mon,1230,1400,1.5,Lecture,AI,DIG5127,Database & Web Application Development,Sujan Shrestha,A1,Block A,Level 1,A101 
+Tue,900,1030,1.5,Tutorial,AI,CMP4294,Introduction to Artificial Intelligence ,Sujan Shrestha,I1,Block A,Level 3,A303
+Wed,1100,1230,1.5,Tutorial,AI,DIG5127,Database & Web Application Development,Sujan Shrestha,A1,Block A,Level 1,A101 
+Thu,1000,1200,2.0,Workshop,AI,DIG5127,Database & Web Application Development,Sujan Shrestha,A1,Block A,Level 3,A303
+Thu,1230,1430,2.0,Workshop,AI,CMP4294,Introduction to Artificial Intelligence ,Sujan Shrestha,I2,Block A,Level 3,A303
+Fri,930,1130,2.0,Workshop,AI,CMP4294,Introduction to Artificial Intelligence ,Sujan Shrestha,I1,Block B,Level 2,B203
+Sun,900,1030,1.5,Lecture,AI,CMP4272,Data Structures & Algorithms,Sumanta Silwal,I1+I2,Block A,Level 4,Seminar Room  
+Sun,1100,1230,1.5,Lecture,AI,CMP5332,Object Oriented Programming,Sumanta Silwal,A1,Block A,Level 1,A101 
+Mon,900,1030,1.5,Tutorial,AI,CMP4272,Data Structures & Algorithms,Sumanta Silwal,I1,Block A,Level 1,A101 
+Mon,1030,1200,1.5,Tutorial,AI,CMP5332,Object Oriented Programming,Sumanta Silwal,A1,Block A,Level 1,A101 
+Tue,1000,1130,1.5,Tutorial,AI,CMP4272,Data Structures & Algorithms,Sumanta Silwal,I2,Block A,Level 3,A301 
+Wed,800,1000,2.0,Workshop,AI,CMP5332,Object Oriented Programming,Sumanta Silwal,A1,Block A,Level 1,A101 
+Thu,930,1130,2.0,Workshop,AI,CMP4272,Data Structures & Algorithms,Sumanta Silwal,I1,Block B,Level 2,B203
+Fri,900,1100,2.0,Workshop,AI,CMP4272,Data Structures & Algorithms,Sumanta Silwal,I2,Block A,Level 3,A301 
+Sun,1100,1230,1.5,Lecture,AI,CMP4266,Computer Programming,Umesh Regmi,C1,Block A,Level 1,A106 
+Sun,1300,1430,1.5,Lecture,AI,CMP4294,Introduction to Artificial Intelligence ,Umesh Regmi,I3+I4,Block A,Level 2, Lecture Theatre 1
+Mon,1130,1300,1.5,Tutorial,AI,CMP4294,Introduction to Artificial Intelligence ,Umesh Regmi,I4,Block A,Level 3,A303
+Tue,1030,1200,1.5,Tutorial,AI,CMP4266,Computer Programming,Umesh Regmi,C1,Block A,Level 1,A107
+Wed,1230,1400,1.5,Tutorial,AI,CMP4294,Introduction to Artificial Intelligence ,Umesh Regmi,I3,Block A,Level 3,A301 
+Thu,700,900,2.0,Workshop,AI,CMP4266,Computer Programming,Umesh Regmi,C1,Block A,Level 3,A301 
+Thu,1000,1200,2.0,Workshop,AI,CMP4294,Introduction to Artificial Intelligence ,Umesh Regmi,I4,Block A,Level 1,A101 
+Fri,1130,1330,2.0,Workshop,AI,CMP4294,Introduction to Artificial Intelligence ,Umesh Regmi,I3,Block A,Level 3,A303

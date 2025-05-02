@@ -29,7 +29,7 @@ class CustomFaissRetriever:
         self.chunks = chunks
         self.document_processor = document_processor
         
-    def get_relevant_documents(self, query: str, k: int = 100) -> List[Document]:
+    def get_relevant_documents(self, query: str, k: int = 50) -> List[Document]:
         """
         Retrieve relevant documents based on the query.
         
