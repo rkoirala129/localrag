@@ -11,7 +11,7 @@ from custom_qa_chain import CustomQAChain  # Replace with actual import
 
 def setup_embeddings_and_index(file_path="schedules.csv"):
     try:
-        api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyC0mPhzCmVmBhhfbGwQUWXTPct0WGeLiSs")
+        api_key = os.environ.get("GEMINI_API_KEY", "api key here")
         processor = DocumentProcessor(api_key=api_key)
         indexer = FaissIndexer(use_gpu=True)
     
@@ -52,7 +52,7 @@ def main():
         return
     
     # Get API key for Gemini
-    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyC0mPhzCmVmBhhfbGwQUWXTPct0WGeLiSs")
+    api_key = os.environ.get("GEMINI_API_KEY", "api key here")
     
     # Initialize our custom retriever
     try:

@@ -12,7 +12,7 @@ class DocumentProcessor:
         
         # Configure Gemini API
         if api_key is None:
-            api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyC0mPhzCmVmBhhfbGwQUWXTPct0WGeLiSs")
+            api_key = os.environ.get("GEMINI_API_KEY", "api key here")
         
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(self.model_name)

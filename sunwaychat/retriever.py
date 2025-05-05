@@ -75,7 +75,7 @@ class FaissRetriever(BaseRetriever):
 
 def setup_embeddings_and_index(file_path="workload.pdf"):
     try:
-        api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyC0mPhzCmVmBhhfbGwQUWXTPct0WGeLiSs")
+        api_key = os.environ.get("GEMINI_API_KEY", "api key here")
         processor = DocumentProcessor(api_key=api_key)
         indexer = FaissIndexer(use_gpu=True)
     
