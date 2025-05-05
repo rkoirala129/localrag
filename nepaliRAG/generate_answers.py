@@ -2,10 +2,18 @@ import os
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 import google.generativeai as genai
+from dotenv import load_dotenv
 
+load_dotenv()
 # Set Gemini API
-os.environ["GOOGLE_API_KEY"] = "api key here"  
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+# os.environ["GOOGLE_API_KEY"] = "AIzaSyC0mPhzCmVmBhhfbGwQUWXTPct0WGeLiSs"  
+# genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+
+api_key = os.getenv("GOOGLE_API_KEY")
+if not api_key:
+    raise ValueError("API key not found. Please set the GOOGLE_API_KEY environment variable.")
+genai.configure(api_key=api_key)
+
 
 def ask_question(query, faiss_dir="nepali_faiss_store", k=3):
     # Step 1: Load embeddings and vectorstore
